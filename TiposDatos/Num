@@ -1,0 +1,32 @@
+archivos:
+	binarios- Configuracion especifica
+	texto plano - pueden ser vistos por cualquier editos texto
+
+Tipo de dato: Propiedad que indica a la computadora como se comporta el dato
+
+Numeros Enteros - int
+Numeros Reales - float
+Numeros Complejos - complex
+
+Variable - Espacio en memoria que puede cambiar
+	identificador - nombre de la variable
+	tipo de dato - como nuestra computadora lo va a tratar
+
+Operadores Aritmeticos: Operaciones basicas de aritmetica
++	a+b 	sumar los numeros
+-	a-b		restar los numeros
+*	a*b 	multiplicar los numeros
+/	a/b 	dividir los numeros
+//	a//b 	divide los numeros y redondea hacia abajo
+% 	a%b 	regresar el modulo de la division
+** a**b    a a la b
+
+Operadores de asignacion: definir una variable
+=  a=b 		el valor de b lo asigna a la variable a
+*= a *= b      el valor de b lo multiplica con a lo asigna a a
++= a += b
+-= a -= b
+
+
+Script - conjunto de instrucciones en un archivo
+
