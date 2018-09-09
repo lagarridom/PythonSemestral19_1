@@ -1,4 +1,4 @@
-Inc
-n txt d prb
-Hl Mnd
-N s q ms dcr
+Incio
+Un texto de prueba
+Hola Mundo
+No se que mas decir
