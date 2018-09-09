@@ -31,5 +31,5 @@ for caracter in texto:
 # el contenido que tenía el archivo que abrimos
 escritor = open(nombre,'w')
 
-# Escribimos textoNuevo en el
+# Escribimos textoNuevo en el archivo
 escritor.write(textoNuevo)
