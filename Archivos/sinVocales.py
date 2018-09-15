@@ -1,5 +1,4 @@
-# Código que permite que sobreescribe contenido de un archivo
-# pero con minúsculas
+# Código que sobreescribe contenido de archivo sin vocales
 
 # Pedimos nombre de archivio (arch1.txt)
 nombre = input("Ingresa el nombre del archivo: ")
