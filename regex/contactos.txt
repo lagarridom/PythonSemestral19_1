@@ -1,0 +1,54 @@
+Correo: alejandro_zv@hotmail.com
+Nombre: Alejandro Gandela
+Teléfono: 5534467020
+Nacionalidad: Mexicano
+
+Correo: proteco@gmail.com
+Nombre: Claudio Hernandez
+Teléfono: 5514367220
+Nacionalidad: Frances
+
+Correo: jorge@icloud.com
+Nombre: Jorge
+Teléfono: 5524447027
+Nacionalidad: Mexicano
+
+Correo: pati_gmail.com.mx
+Nombre: Patricia Fuentes
+Teléfono: 5532461021
+Nacionalidad: Alemana
+
+Correo: jorge.com
+Nombre: Jorge Barrero
+Teléfono: 5734867022
+Nacionalidad: Francés
+
+Correo: cursos.rpoteco@.com
+Nombre: Ana Escobar
+Teléfono: 5533317020
+Nacionalidad: Estadounidense
+
+Correo: hotmail@hotmail.com
+Nombre: Patricio Rigel
+Teléfono: 5504437021
+Nacionalidad: Mexicano
+
+Correo: hotmail_434xx@hotmail.com
+Nombre: Andres Partida
+Teléfono: 5573462022
+Nacionalidad: Africano
+
+Correo: VeroT.123@hotmail.us
+Nombre: Verónica Trejo
+Teléfono: 5532463040
+Nacionalidad: Austrialana
+
+Correo: 12123@hotmail.com
+Nombre: Aldo Hernandez
+Teléfono: 5588468080
+Nacionalidad: Canadiense
+
+Correo: hotmail_434xx@hotmail.com.mx
+Nombre: Marco Lopez
+Teléfono: 5554564024
+Nacionalidad: Colombiano
